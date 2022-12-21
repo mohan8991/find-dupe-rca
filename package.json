@@ -1,0 +1,19 @@
+{
+  "name": "find-dupe-rca",
+  "version": "1.0.0",
+  "description": "Find dupe RCA records",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://code.devsnc.com/mohan-gopikrishna/find-dupe-rca.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xml-js": "^1.6.11"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "gitLocation": "/Users/mohan.gopikrishna/git/",
+    "repos":["app-rampup", "app-ex-employee-center", "app-ex-employee-center-pro", "app-ex-employee-center-core", "app-ex-employee-profile", "app-hr"],
+    "fields":["source_scope", "source", "target", "target_scope", "operation", "rca_type", "action"],
+    "fileExtnToSearch": ["sys_restricted_caller_access_"],
+    "ignore": [".DS_Store", ".git",".github",".gitignore","README.md", "target", "bin"]
+}
